@@ -1,0 +1,8 @@
+prefix=/home/rojo1997/MEGAsync/Ernesto/Tercero/Tecnicas de Sistemas Inteligentes/Practicas/Practica 1/catkin_ws_navigacion/devel
+
+Name: odometry_publisher_tutorial
+Description: Description of odometry_publisher_tutorial
+Version: 0.2.1
+Cflags: 
+Libs: -L/home/rojo1997/MEGAsync/Ernesto/Tercero/Tecnicas de Sistemas Inteligentes/Practicas/Practica 1/catkin_ws_navigacion/devel/lib 
+Requires: 

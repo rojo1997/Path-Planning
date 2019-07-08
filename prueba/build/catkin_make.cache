@@ -1,0 +1,2 @@
+my_astar_planner
+-DCATKIN_DEVEL_PREFIX=/home/rojo1997/MEGAsync/Ernesto/Tercero/Tecnicas de Sistemas Inteligentes/Practicas/Practica 1/prueba/devel -DCMAKE_INSTALL_PREFIX=/home/rojo1997/MEGAsync/Ernesto/Tercero/Tecnicas de Sistemas Inteligentes/Practicas/Practica 1/prueba/install -G Unix Makefiles

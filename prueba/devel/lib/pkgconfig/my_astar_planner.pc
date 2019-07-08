@@ -1,0 +1,8 @@
+prefix=/home/rojo1997/MEGAsync/Ernesto/Tercero/Tecnicas de Sistemas Inteligentes/Practicas/Practica 1/prueba/devel
+
+Name: my_astar_planner
+Description: Description of my_astar_planner
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rojo1997/MEGAsync/Ernesto/Tercero/Tecnicas de Sistemas Inteligentes/Practicas/Practica 1/prueba/devel/lib 
+Requires: 
